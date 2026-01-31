@@ -1,0 +1,12 @@
+paths:
+  attempts_csv: "/Users/.../attempts_locs_YYYYMMDD.csv"
+  checks_csv:   "/Users/.../checks_YYYYMMDD.csv"
+  temp_csv:     "/Users/.../Temp.csv"
+  ebird_tax:    "/Users/.../eBird_taxonomy_v2024.csv"
+  brain_rdata:  "/Users/.../BirdBrainData.Rdata"
+  tree_rdata:   "/Users/.../Bird.MCC.tree.Rdata"
+
+options:
+  cores: 4
+  year_min: 1900
+  year_max: 2100
